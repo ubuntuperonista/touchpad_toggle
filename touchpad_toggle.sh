@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 # tp
 # Pone el touchpad en on/off.
